@@ -1,6 +1,6 @@
 # Agent_Tools_and_Tool_Calling_by_LLMs_with_LangChain
 
-##Rule of thumb: If the class name has "Tool", "Run", or "Results" in it, try using it directly first. If it has "Wrapper" or "API", you'll need to wrap it!
+## Rule of thumb: If the class name has "Tool", "Run", or "Results" in it, try using it directly first. If it has "Wrapper" or "API", you'll need to wrap it!
 
 ## Method 1: Check the class name and imports
 
